@@ -14,7 +14,7 @@ function MainRoutes(){
                     <Route path="/" element={<Home />}/>
                     <Route path="/dashboard" element={<Dashboard />}/>
                     <Route path="/project" element={<Projects />}>
-                        <Route path="/project/dada" element={<MealGenerator />}/>
+                        <Route path="/project/prj1" element={<MealGenerator />}/>
                     </Route>
                 </Routes>
             </div>
