@@ -1,6 +1,7 @@
 import './styles.css';
 
 function Card({id, image, title, date, description} : {id:string, image:string, title:string, date: string, description: string}) {
+  console.log(id);
   return (
     <div className='card-container'>
         <div className='card-img'>
@@ -10,6 +11,7 @@ function Card({id, image, title, date, description} : {id:string, image:string, 
             <div className='card-title'> {title}</div>
             <div className='card-desc'>
                 <p>{description}</p>
+                <p>{date}</p>
             </div>
         </div>
     </div>

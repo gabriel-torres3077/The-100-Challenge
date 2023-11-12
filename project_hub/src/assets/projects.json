@@ -1,0 +1,27 @@
+{
+    "0": {
+        "name": "Meal Generator",
+        "description": "Página para gerar uma receita aleatória e exibir a informação para o usuário",
+        "dificulty": 1
+    },
+    "1": {
+        "name": "Project HUB",
+        "description": "Site para armazenar todos os projetos desenvolvidos durante o desafio dos 100/70 dias",
+        "dificulty": 2
+    },
+    "2": {
+        "name": "CSS Pulse effect",
+        "description": "Efeito de pulsação com CSS puro",
+        "dificulty": 1.5
+    },
+    "3": {
+        "name": "James Bond Tribute Page",
+        "description": "Página de tributo para os filmes do James bond contendo algumas informações sobre os filmes/autores",
+        "dificulty": 1
+    },
+    "4": {
+        "name": "Math Wizz Game",
+        "description": "Jogo de matemática onde o usuário deve resolver a maior quantidade de contas possíveis em um tempo determinado",
+        "dificulty": 3.5
+    }
+}
