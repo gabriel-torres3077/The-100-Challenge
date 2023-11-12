@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://gabriel-torres3077.github.io/The-100-Challenge",
+  "homepage": "https://gabriel-torres3077.github.io/The-100-Challenge/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
